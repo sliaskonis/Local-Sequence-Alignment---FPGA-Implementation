@@ -1,4 +1,4 @@
-# Optimized FPGA Implementation for Accelerating Local Sequence Alignment
+# Optimized FPGA Implementation for Accelerating Local Sequence Alignment (ECE340-Embedded Systems)
 
 ## Software Implementation of LSAL
 SW directory contains all the software implementations of the lsal algorithm:
